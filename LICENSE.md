@@ -1,4 +1,4 @@
-# 
+# Seguro AI Stock Price Predictor extensões. Com visualização de dados e ética de IA — otimizado para máximo desempenho.
 
 
 
